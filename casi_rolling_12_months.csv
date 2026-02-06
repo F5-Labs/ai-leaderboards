@@ -1,0 +1,29 @@
+Model,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Jan,Feb
+Alibaba_Qwen Qwen3-14B,60.82,,,,,,,,
+Alibaba_Qwen Qwen3-30B-A3B,58.61,,,,,,,,
+Anthropic Claude Haiku 3.5,85.69,84.65,82.72,83.59,83.71,,,,
+Anthropic Claude Haiku 4.5,,,,,,95.89,96.45,95.75,96.7
+Anthropic Claude Opus 4.5,,,,,,,97.81,97.86,97.04
+Anthropic Claude Sonnet 3.5,93.27,92.67,92.71,93.61,91.22,,,,
+Anthropic Claude Sonnet 3.7,87.24,85.73,84.75,84.89,84.91,82.27,79.99,84.42,84.63
+Anthropic Claude Sonnet 4,95.12,95.36,94.57,95.03,94.19,95.33,95.87,95.75,95.92
+Anthropic Claude Sonnet 4.5,,,,,,95.86,96.88,97.76,98.06
+DeepSeek DeepSeek-R1,,,,,,72.6,,,
+DeepSeek DeepSeek-R1-0528,,,58.77,,,,,,
+DeepSeek DeepSeek-R1-Distill-Llama-70B,73.96,,67.2,72.13,,,,,
+Meta DeepSeek-R1-Distill-Llama-70B,,72.98,,,,,,,
+Meta Llama 3.1 405b,64.65,66.13,59.34,,,,,,
+Microsoft Phi-4,81.44,80.83,77.62,79.33,76.29,78.12,76.2,,76.0
+MiniMax MiniMax-M2,,,,,,,,,78.61
+OpenAI GPT-4o,68.13,68.59,65.02,,,,,,
+OpenAI GPT-5,,,,82.34,78.96,80.31,84.08,81.98,
+OpenAI GPT-5 Mini,,,,84.14,82.98,84.53,85.67,85.8,
+OpenAI GPT-5 Nano,,,,86.44,85.62,85.55,86.64,87.28,87.39
+OpenAI GPT-5.1,,,,,,,80.32,81.23,85.01
+OpenAI GPT-5.2,,,,,,,,92.63,93.37
+OpenAI GPT-OSS 120b,,,,74.76,,72.84,,,
+Qwen Qwen3-14B,,61.56,,,,,,,
+Qwen Qwen3-30B,,64.26,,,,,,,
+Qwen Qwen3-30B-A3B,,,58.33,,,,,,
+xAI Grok 4,,,,,76.06,,,,
+xAI Grok 4 Fast,,,,,80.69,,,,
